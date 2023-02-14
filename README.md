@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning DevOps
 
-🌱 How to reach me ibrahimawolu5@gmail.com
+🌱 How to reach me:  https://www.linkedin.com/in/ibrahimendire/
 
 
 ================================================================================
