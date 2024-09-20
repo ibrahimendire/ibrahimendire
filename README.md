@@ -1,12 +1,12 @@
-# Hi there 👋
-### This is Ibrahim. 
-🌱 I’m experienced full stack developer with Java, C#, javascript and experiance with differnt cloud technology platforms Azure, Amazon webService, Google cloud cloud.
+Hi there 👋
+I'm Ibrahim Endire
+🌱 I am an experienced Full Stack Developer with proficiency in C#, JavaScript, and hands-on expertise across multiple cloud platforms including Azure, AWS, and Google Cloud.
 
-🌱 I’m interested in DevOps, Cloud computing, networking
+🌱 My areas of interest include DevOps, System Administration, Cloud Computing, and Networking. I am continuously evolving my skills to stay on the cutting edge of technology.
 
-🌱 I’m currently learning DevOps
+🌱 I hold a degree in Computer Information Systems and several industry certifications, demonstrating my commitment to learning and delivering impactful solutions.
 
-🌱 How to reach me:  https://www.linkedin.com/in/ibrahimendire/
+📫 Let's connect: [on linkedin]( https://www.linkedin.com/in/ibrahimendire/)
 
 
 ================================================================================
