@@ -6,7 +6,7 @@ I'm Ibrahim Endire
 
 🌱 I hold a degree in Computer Information Systems and several industry certifications, demonstrating my commitment to learning and delivering impactful solutions.
 
-📫 Let's connect: [on linkedin]( https://www.linkedin.com/in/ibrahimendire/)
+📫 Let's connect: [on Linkedin]( https://www.linkedin.com/in/ibrahimendire/)
 
 
 ================================================================================
