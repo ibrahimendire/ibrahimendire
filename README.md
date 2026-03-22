@@ -39,8 +39,7 @@ Results-driven IT professional with 4+ years of experience supporting AWS, Azure
 ## 💼 Professional Experience
 
 - Azure App Service Support Engineer (Microsoft via Apex)  
-- Tech Support Engineer (Google via Infosys)  
-- Fleet Support Specialist (SQL + operations)  
+- Tech Support Engineer (Google via Infosys)   
 
 ---
 
@@ -58,7 +57,7 @@ Actively seeking:
 - 🌐 Portfolio: https://ibrahimendire.github.io/Portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/ibrahimendire/
 - 💻 GitHub: https://github.com/ibrahimendire
-- 📧 Email: ibrahimawolu5@gmail.com  
+ 
 
 ---
 
