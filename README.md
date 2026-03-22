@@ -1,17 +1,65 @@
-**Hi there 👋**
+# 👋 Hi, I'm Ibrahim Endire
 
-***I'm Ibrahim Endire***
+☁️ Cloud Support Engineer | 🌐 Network Specialist | 🧪 QA Tester  
 
-🌱 I am an experienced Full Stack Developer with proficiency in C#, JavaScript, and hands-on expertise across multiple cloud platforms including Azure, AWS, and Google Cloud.
+---
 
+## 💡 Professional Summary
 
-🌱 My areas of interest include DevOps, System Administration, Cloud Computing, and Networking. I am continuously evolving my skills to stay on the cutting edge of technology.
+Results-driven IT professional with 4+ years of experience supporting AWS, Azure, and Google Cloud environments. Proven track record delivering Tier 1/2 support for enterprise clients at Microsoft and Google.
 
+---
 
-🌱 I hold a degree in Computer Information Systems and several industry certifications, demonstrating my commitment to learning and delivering impactful solutions.
+## 🛠️ Technical Skills
 
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, CloudWatch)  
+- Microsoft Azure (App Service, Azure AD)  
+- Google Cloud Platform  
 
-📫 Let's connect: [on Linkedin]( https://www.linkedin.com/in/ibrahimendire/)
+### 🌐 Networking
+- TCP/IP, DNS, DHCP, VPN  
+- Routing & Switching (CCNA - In Progress)  
 
+### 💻 Systems & Tools
+- Linux, Windows Server  
+- Docker, Git  
+- MySQL, MS SQL Server  
+- Postman, JMeter  
 
-================================================================================
+### 💻 Programming
+- JavaScript, C#, SQL, Java  
+
+### 🧪 QA & Testing
+- Functional Testing  
+- Performance Testing (JMeter)  
+
+---
+
+## 💼 Professional Experience
+
+- Azure App Service Support Engineer (Microsoft via Apex)  
+- Tech Support Engineer (Google via Infosys)  
+- Fleet Support Specialist (SQL + operations)  
+
+---
+
+## 🎯 Career Goals
+
+Actively seeking:
+- IT Support  
+- Cloud Support  
+- Network Engineering roles  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://ibrahimendire.github.io/Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrahimendire/
+- 💻 GitHub: https://github.com/ibrahimendire
+- 📧 Email: ibrahimawolu5@gmail.com  
+
+---
+
+⭐️ Open to opportunities and collaborations!
